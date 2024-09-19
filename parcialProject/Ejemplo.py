@@ -24,9 +24,10 @@ d = float(s2)
 print(d)  # Output: 3.14
 
 #Multilíneas de cadenas.
-text = "¡Hola, mundo!"
-length = len(text)
-print(length)  # Output: 12
+multiline_string = """Esta es una cadena
+que ocupa varias líneas.
+Puedes escribir lo que quieras aquí."""
+print(multiline_string)
 
 #Funcion Len
 text = "¡Hola, mundo!"
